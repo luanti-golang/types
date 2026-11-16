@@ -1,6 +1,6 @@
-Minetest related type definitions for golang
+Luanti related type definitions for golang
 
 
-![](https://github.com/minetest-go/types/workflows/test/badge.svg)
+![](https://github.com/luanti-golang/types/workflows/test/badge.svg)
 
-Docs: https://pkg.go.dev/github.com/minetest-go/types
+Docs: https://pkg.go.dev/github.com/luanti-golang/types

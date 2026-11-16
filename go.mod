@@ -1,4 +1,4 @@
-module github.com/minetest-go/types
+module github.com/luanti-golang/types
 
 go 1.27
 

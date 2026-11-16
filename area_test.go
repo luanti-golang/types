@@ -3,7 +3,7 @@ package types_test
 import (
 	"testing"
 
-	"github.com/minetest-go/types"
+	"github.com/luanti-golang/types"
 	"github.com/stretchr/testify/assert"
 )
 
